@@ -1,4 +1,4 @@
-## Master Your Project Profitability with Costs
+## Masterereeeeed Your Project Profitability with Costs
 
 Understanding where your money goes is just as important as knowing where your time goes. Beebole’s cost tracking feature bridges the gap between hours logged and your actual bottom line, transforming raw data into actionable business intelligence.
 
