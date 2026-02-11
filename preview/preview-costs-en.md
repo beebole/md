@@ -1,31 +1,6 @@
 <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" style="display: block; margin-left: auto; margin-right: auto; width: 400px;" alt="Centered Image">
 
-<p style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><table>
-  <thead>
-    <tr>
-      <th>Team Member</th>
-      <th>Role</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Alex Rivera</td>
-      <td>Project Manager</td>
-      <td>Active</td>
-    </tr>
-    <tr>
-      <td>Sam Chen</td>
-      <td>Lead Developer</td>
-      <td>In Review</td>
-    </tr>
-    <tr>
-      <td>Jordan Smith</td>
-      <td>UI/UX Designer</td>
-      <td>Completed</td>
-    </tr>
-  </tbody>
-</table></p>
+<p style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><table style="width:100%; border-collapse:collapse; font-family:sans-serif;"><thead><tr style="background-color:#f4f4f4;"><th style="border:1px solid #ddd; padding:8px;">Project</th><th style="border:1px solid #ddd; padding:8px;">Hours</th><th style="border:1px solid #ddd; padding:8px;">Status</th></tr></thead><tbody><tr><td style="border:1px solid #ddd; padding:8px;">Website Redesign</td><td style="border:1px solid #ddd; padding:8px;">40</td><td style="border:1px solid #ddd; padding:8px;">Billable</td></tr><tr><td style="border:1px solid #ddd; padding:8px;">Internal Training</td><td style="border:1px solid #ddd; padding:8px;">10</td><td style="border:1px solid #ddd; padding:8px;">Non-Billable</td></tr></tbody></table></p>
 
 ---
 
