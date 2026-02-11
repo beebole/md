@@ -1,6 +1,31 @@
 <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" style="display: block; margin-left: auto; margin-right: auto; width: 400px;" alt="Centered Image">
 
-<p style="display: block; margin-left: auto; margin-right: auto; width: 400px;">Understanding where your money goes is just as important as knowing where your time goes. Beebole’s cost tracking feature bridges the gap between hours logged and your actual bottom line, transforming raw data into actionable business intelligence.</p>
+<p style="display: block; margin-left: auto; margin-right: auto; width: 400px;"><table>
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>Role</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alex Rivera</td>
+      <td>Project Manager</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td>Sam Chen</td>
+      <td>Lead Developer</td>
+      <td>In Review</td>
+    </tr>
+    <tr>
+      <td>Jordan Smith</td>
+      <td>UI/UX Designer</td>
+      <td>Completed</td>
+    </tr>
+  </tbody>
+</table></p>
 
 ---
 
