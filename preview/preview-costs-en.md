@@ -1,4 +1,4 @@
-![Costs Reports](https://a.storyblok.com/f/118349/1689x1061/08bb40d50f/costs-profits-report.svg)
+<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="300" />
 
 Understanding where your money goes is just as important as knowing where your time goes. Beebole’s cost tracking feature bridges the gap between hours logged and your actual bottom line, transforming raw data into actionable business intelligence.
 

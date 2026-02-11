@@ -19,19 +19,10 @@ Standard time tracking tells you **who** worked and for **how long**. Custom fie
 ### 1. Creating Your Fields
 Navigate to your **Settings** to define the fields that match your workflow. You can choose from text, numbers, dropdown lists, or checkboxes.
 
-![Beebole Custom Field Configuration Interface]()
-
-<div class="flex -wfull justify-center items-center">
-  <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="500" />
-  <br>
-  <i>Setting up a "Project Phase" dropdown allows users to categorize their time.</i>
-</div>
+<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="500" />
 
 ### 2. User Entry Made Easy
 Once configured, these fields appear directly on the timesheet. It ensures data integrity by forcing users to select from your predefined options.
-
-<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="200" height="100">
-> *A seamless experience for employees: track time and categorize it in one click.*
 
 ---
 
