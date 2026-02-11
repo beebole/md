@@ -1,16 +1,6 @@
-<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="300" />
+<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" style="display: block; margin-left: auto; margin-right: auto; width: 400px;" alt="Centered Image">
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" alt="Centered Image" width="500">
-</div>
-
-<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" style="display: block; margin-left: auto; margin-right: auto; width: 500px;" alt="Centered Image">
-
-<div style="text-align: center;">
-  <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" alt="Centered Image" width="500">
-</div>
-
-Understanding where your money goes is just as important as knowing where your time goes. Beebole’s cost tracking feature bridges the gap between hours logged and your actual bottom line, transforming raw data into actionable business intelligence.
+<p style="display: block; margin-left: auto; margin-right: auto;">Understanding where your money goes is just as important as knowing where your time goes. Beebole’s cost tracking feature bridges the gap between hours logged and your actual bottom line, transforming raw data into actionable business intelligence.</p>
 
 ---
 
