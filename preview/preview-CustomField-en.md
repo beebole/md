@@ -19,7 +19,7 @@ Standard time tracking tells you **who** worked and for **how long**. Custom fie
 ### 1. Creating Your Fields
 Navigate to your **Settings** to define the fields that match your workflow. You can choose from text, numbers, dropdown lists, or checkboxes.
 
-![Beebole Custom Field Configuration Interface](https://beebole.com/wp-content/themes/beebole/img/help/custom-fields-setup.png)
+![Beebole Custom Field Configuration Interface](https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif)
 > *Setting up a "Project Phase" dropdown allows users to categorize their time beyond just the task name.*
 
 ### 2. User Entry Made Easy
