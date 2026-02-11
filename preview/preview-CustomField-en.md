@@ -21,7 +21,7 @@ Navigate to your **Settings** to define the fields that match your workflow. You
 
 ![Beebole Custom Field Configuration Interface]()
 
-<div align="center">
+<div class="flex -wfull justify-center items-center">
   <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="500" />
   <br>
   <i>Setting up a "Project Phase" dropdown allows users to categorize their time.</i>
