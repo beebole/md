@@ -1,6 +1,6 @@
 <img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" style="display: block; margin-left: auto; margin-right: auto; width: 400px;" alt="Centered Image">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s2YT-IWMltc?si=-beyHcF4-cCM8RJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2YT-IWMltc?si=-beyHcF4-cCM8RJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"></iframe>
 
 <video width="100%" controls><source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
