@@ -1,4 +1,1 @@
-To invite a new user, navigate to the **Personnel** tab and click the **"+" (Add)** button. 
-Enter their email address and select "Send invitation" to trigger their login setup.
-
-For more details on permissions and roles, check the [Beebole Documentation](https://beebole.com/help/personnel-settings/).
+User settings manage this person's login credentials, email address, and assigned role. From here you can invite the person to join the platform or check whether they have already signed in. The assigned role determines what permissions this person has throughout the application.

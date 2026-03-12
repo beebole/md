@@ -1,0 +1,1 @@
+Approval stages define the sequential steps required to approve timesheets and absences. Each stage can be assigned to specific persons or tags, with an optional quorum setting to require only a subset of approvers. Stages are inherited from the organisation level and can be overridden per person or tag.

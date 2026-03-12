@@ -1,0 +1,1 @@
+Notification settings control how and when this entity receives email and push notifications. You can configure the frequency for different notification types such as mentions, pending approvals, and managed entity updates. Settings are inherited from the organisation level and can be customised per tag or person.

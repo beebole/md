@@ -1,0 +1,1 @@
+The tagged section shows which persons, projects, and tasks are associated with this tag. Tagging entities allows you to group them for shared settings, reporting, and management. Any settings configured on this tag (schedules, rates, notifications, etc.) will be inherited by all tagged entities.

@@ -1,0 +1,1 @@
+OpenID Connect (SSO) configuration allows your organisation to use a third-party identity provider for single sign-on. Enter the issuer URL, client ID, and client secret from your identity provider to enable SSO. Once configured, users can sign in using their corporate credentials instead of a separate password.

@@ -1,0 +1,1 @@
+Availability settings configure which entity types and features are enabled across the organisation. You can toggle the visibility of modules such as projects, tasks, tags, absences, expenses, and budgets. Disabling a module hides it from the interface for all users in the organisation.

@@ -1,0 +1,1 @@
+The manager section shows which persons, projects, tasks, and tags this person manages. Managers receive notifications about the entities they oversee and can approve timesheets and absences on their behalf. Management assignments can be set directly or inherited through tags.

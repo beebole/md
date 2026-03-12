@@ -1,0 +1,1 @@
+Accrual settings control how absence allowances are accumulated over time. You can enable periodic accrual with a chosen frequency and specify how many days or hours are awarded each period. The option to allow negative booking lets users book absences even when their accrued balance is insufficient.

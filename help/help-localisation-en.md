@@ -1,0 +1,1 @@
+Localisation settings configure the language, timezone, date format, and number format for this entity. These preferences affect how dates, times, and numbers are displayed throughout the interface. Settings are inherited from the organisation level and can be overridden per tag or person.

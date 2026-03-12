@@ -1,0 +1,1 @@
+Cost rates define the internal hourly or daily cost associated with time entries. These are used to calculate profitability alongside billing rates. Rates can change over time with different start dates and support multiple currencies. Settings are inherited from the organisation level and can be overridden per tag, person, or project.

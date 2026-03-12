@@ -1,0 +1,1 @@
+Custom field values display the data entered for each custom field assigned to this entity. Fields appear here based on their visibility settings and the entity type. You can edit values directly from this panel, and they will be validated against the rules defined in the custom field configuration.

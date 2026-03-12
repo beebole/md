@@ -1,0 +1,1 @@
+Custom field visibility controls where this field appears in the application. You can make it visible on person profiles, time records (filtered by project category, task category, or absence type), projects, and tasks. This lets you show relevant fields only in the contexts where they are needed.

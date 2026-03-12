@@ -1,0 +1,1 @@
+Schedule relations assign work schedules to this entity, defining the expected working hours and days. Schedules can have a start date to support changes over time, such as switching from full-time to part-time. Settings are inherited from the organisation level and can be overridden per tag or person.

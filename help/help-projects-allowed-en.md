@@ -1,0 +1,1 @@
+Projects allowed defines which sub-projects can be associated with this project. This creates a hierarchy where time entries and budgets can be tracked at multiple levels. Use this to structure large projects into smaller, manageable components while maintaining a clear parent-child relationship.

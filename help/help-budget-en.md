@@ -1,0 +1,1 @@
+Budgets let you set financial or time-based targets for this project over a defined period. You can track hours, billing, or cost against the budget and split allocations by person or sub-project. Budget progress is calculated automatically from logged time entries and expenses.
