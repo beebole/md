@@ -10,4 +10,4 @@ Add rich, shared context and notes to a tag so everyone understands what it repr
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.

@@ -10,4 +10,4 @@ Control which email and in-app notifications a tagged group receives.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.

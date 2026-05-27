@@ -10,4 +10,4 @@ Track and reimburse the money your team spends, not just the time they log.
 
 ---
 
-Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to your current plan.

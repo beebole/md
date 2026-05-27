@@ -10,4 +10,4 @@ Assign work schedules to everyone sharing a tag instead of person by person.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.

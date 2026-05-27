@@ -10,4 +10,4 @@ Record what your team actually costs per hour to reveal the true profitability o
 
 ---
 
-Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to your current plan.

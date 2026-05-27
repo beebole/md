@@ -10,4 +10,4 @@ Assign managers to every project or person carrying a tag in a single step.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
