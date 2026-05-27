@@ -1,10 +1,13 @@
-## Master Your Custom Fields
+## Custom Field Values
 
-Understanding where your money goes is just as important as knowing where your time goes. Beebole’s cost tracking feature bridges the gap between hours logged and your actual bottom line, transforming raw data into actionable business intelligence.
+Fill in your custom fields on projects, tasks and people to enrich every record.
 
-### Key Advantages of Tracking Costs
+**Why use it**
 
-* **Real-Time Margin Analysis:** Instantly see the difference between your billable rates and internal labor costs.
-* **Budget Precision:** Prevent project overruns by monitoring spend against your initial estimates in real-time.
-* **Customizable Cost Rates:** Set specific hourly costs for different employees, departments, or specialized roles.
-* **Historical Accuracy:** Audit past projects with precision to ensure your future bids are both competitive and profitable.
+- **Richer records** — tag entries with the metadata your reports rely on.
+- **Your own dimensions** — group and filter reports by criteria unique to you.
+- **Connected data** — link Beebole to your ERP or CRM with reference IDs.
+
+---
+
+> **Upgrade to unlock Custom Fields.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

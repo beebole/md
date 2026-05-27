@@ -1,49 +1,13 @@
-# Supercharge Your Data: The Power of Custom Fields in Beebole
+## Custom Fields
 
-In a world of "one size fits all" software, **Beebole Custom Fields** are your secret weapon for tailoring project tracking to your specific business DNA. Whether you are managing a creative agency, a law firm, or a global consultancy, custom fields allow you to capture the metadata that actually matters to your bottom line.
+Capture the metadata that's unique to your business and turn it into powerful reporting dimensions.
 
----
+**Why use it**
 
-## Why Use Custom Fields?
-
-Standard time tracking tells you **who** worked and for **how long**. Custom fields tell you **why**, **how**, and **under what conditions**.
-
-* **Granular Reporting:** Group and filter reports by unique criteria like "Department," "Grant ID," or "Task Urgency."
-* **Workflow Integration:** Link Beebole data to your ERP or CRM by adding external Reference IDs.
-* **Compliance & Billing:** Track whether hours are "Billable," "R&D Tax Credit Eligible," or "Overtime" with a simple dropdown.
+- **Built for you** — create fields tailored to your industry and processes.
+- **Attach anywhere** — add them to projects, tasks or people.
+- **Pivot your way** — build reports around your own criteria, not ours.
 
 ---
 
-## Visualizing Your Setup
-
-### 1. Creating Your Fields
-Navigate to your **Settings** to define the fields that match your workflow. You can choose from text, numbers, dropdown lists, or checkboxes.
-
-<img src="https://designmodo.com/wp-content/uploads/2014/03/Team-Messages.gif" width="500" />
-
-### 2. User Entry Made Easy
-Once configured, these fields appear directly on the timesheet. It ensures data integrity by forcing users to select from your predefined options.
-
----
-
-## Turning Data into Insights
-
-The true magic happens in the **Beebole Report Builder**. Custom fields become dimensions that you can drag and drop to create powerful pivot tables.
-
-| Project | Hours | Custom Field: Billing Status | Total Value |
-| :--- | :--- | :--- | :--- |
-| Website Redesign | 40 | Billable | $6,000 |
-| Internal Training | 10 | Non-Billable | $0 |
-| Bug Fixing | 15 | Warranty | $0 |
-
----
-
-## Pro-Tips for Implementation
-
-1.  **Keep it Simple:** Only make fields "Required" if the data is essential for your payroll or invoicing.
-2.  **Use Dropdowns:** Avoid "Text" fields where possible to prevent typos (e.g., "Marketing" vs "Mktg") from ruining your reports.
-3.  **Entity Mapping:** You can attach custom fields to **Projects**, **Tasks**, or even **Users** for maximum flexibility.
-
----
-
-> **Ready to transform your reporting?** > Stop settling for generic data. Start capturing the details that drive your business growth today.
+> **Upgrade to unlock Custom Fields.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

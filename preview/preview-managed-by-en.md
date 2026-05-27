@@ -1,0 +1,13 @@
+## Managed By, by Tag
+
+Assign managers to every project or person carrying a tag in a single step.
+
+**Why use it**
+
+- **Group permissions** — grant management rights to a whole set, not one record at a time.
+- **Scales with you** — keep oversight aligned as teams grow and reorganise.
+- **Less busywork** — save hours of repetitive permission setup.
+
+---
+
+> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
