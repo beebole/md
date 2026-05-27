@@ -1,1 +1,4 @@
 Email templates let you customise the content of automated emails sent by the platform, such as signup invitations, sign-in links, reminders, and approval notifications. Templates are inherited from the organisation level and can be overridden per tag or person. Each template type can be edited independently.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/notifications)

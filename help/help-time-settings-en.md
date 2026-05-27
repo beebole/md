@@ -1,1 +1,4 @@
 Time settings control how time entries are recorded and displayed. Options include the time entry mode (hours, start/end times, or duration), rounding rules, and which day the week starts on. Settings are inherited from the organisation level and can be overridden per tag or person.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/timesheetSettings)

@@ -1,1 +1,4 @@
 Absence notification settings configure alerts related to this absence type. You can enable warnings when a person's balance goes negative, when bookings are made in advance of accrued allowance, and when excess occurrences are detected. Each notification can be tuned for frequency and interval.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/timeoff)

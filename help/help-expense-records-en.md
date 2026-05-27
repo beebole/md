@@ -1,1 +1,4 @@
 Expense records show the expenses logged against this entity. Each record is linked to an expense type and can include amounts, dates, and notes. This panel provides an overview of all recorded expenses for reporting and budget tracking purposes.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/expenses)

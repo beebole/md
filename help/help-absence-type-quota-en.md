@@ -1,1 +1,4 @@
 Absence quotas define the available allowance for each absence type over a given period. You can set start and end dates, the number of days or hours available, carry-forward limits, and accrual corrections. Quotas are inherited from the organisation level and can be customised per tag or person.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/timeoff)

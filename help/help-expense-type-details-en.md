@@ -1,1 +1,4 @@
 Expense type details define the properties of this expense category. You can specify whether amounts are entered as currency values, whether expenses count towards project budgets, and set a markup percentage for billing purposes.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/expenses)

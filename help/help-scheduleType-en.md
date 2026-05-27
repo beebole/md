@@ -1,1 +1,4 @@
 This section defines the work schedule pattern, including which days are working days and how many hours are expected per day. Schedules determine the baseline for availability calculations, absence quotas, and capacity planning. Multiple schedule types can be created to represent different working arrangements.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/work-schedule)

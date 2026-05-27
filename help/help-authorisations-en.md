@@ -1,1 +1,4 @@
 Authorisations control what users assigned to this role can view and manage within the application. Each permission category can be set independently for viewing and managing. Assign this role to persons to grant them the corresponding access rights across the platform.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/roles-authorisations)

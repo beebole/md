@@ -1,1 +1,4 @@
 Task date and status settings let you define start and end dates for this task, as well as its current status. Duration and progress information are calculated based on time entries logged against the task. These fields help track timelines and identify overdue or upcoming work.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/planning)

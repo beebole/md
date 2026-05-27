@@ -1,1 +1,4 @@
 The task owner section shows which person is responsible for this task. The owner typically oversees the task's progress and receives related notifications. Assigning an owner helps clarify accountability and can be used for filtering and reporting purposes.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/planning)

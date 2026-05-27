@@ -1,1 +1,4 @@
 The related-to section shows the associations between this entity and other entities in the system. Depending on the entity type, this can include links to persons, projects, tasks, tags, or organisations. These relationships determine how settings are inherited and how data is grouped in reports.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/assignments)

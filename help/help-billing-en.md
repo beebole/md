@@ -1,1 +1,4 @@
 Billing rates define the hourly or daily rates used to calculate revenue for time entries. Rates can vary over time with different start dates, and support multiple currencies. Settings are inherited from the organisation level and can be overridden per tag, person, or project to reflect different billing arrangements.
+---
+
+[Read more in the documentation →](https://help.beebole.com/help/documentation/billing)
