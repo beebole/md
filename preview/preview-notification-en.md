@@ -1,6 +1,6 @@
 **What it does**
 
-Control which email and in-app notifications a tagged group receives.
+Notification settings already work on your organization and people. With **Advanced Tags**, you can set which alerts a whole tagged group receives, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Control which email and in-app notifications a tagged group receives.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

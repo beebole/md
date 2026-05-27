@@ -1,6 +1,6 @@
 **What it does**
 
-Add rich, shared context and notes to a tag so everyone understands what it represents.
+Descriptions already work on people, projects and tasks. With **Advanced Tags**, you can add shared context to a tag so everyone it groups understands what it represents.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Add rich, shared context and notes to a tag so everyone understands what it repr
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

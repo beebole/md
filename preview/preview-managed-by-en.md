@@ -1,6 +1,6 @@
 **What it does**
 
-Assign managers to every project or person carrying a tag in a single step.
+You can already set who manages each project or person. With **Advanced Tags**, you can assign managers to everything sharing a tag, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Assign managers to every project or person carrying a tag in a single step.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

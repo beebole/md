@@ -1,6 +1,6 @@
 **What it does**
 
-Apply shared configuration options to every record carrying a tag.
+Options already work on people and projects. With **Advanced Tags**, you can apply shared configuration to everything sharing a tag, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Apply shared configuration options to every record carrying a tag.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

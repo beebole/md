@@ -10,4 +10,4 @@ Capture the metadata that's unique to your business and turn it into powerful re
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

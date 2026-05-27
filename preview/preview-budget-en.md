@@ -10,4 +10,4 @@ Set a time or cost budget on a project and watch progress against it as work hap
 
 ---
 
-Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to the **Essential** plan.

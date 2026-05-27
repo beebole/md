@@ -1,6 +1,6 @@
 **What it does**
 
-Customise the emails sent to a tagged group, such as reminders and approval requests.
+Email templates already work on your organization. With **Advanced Tags**, you can tailor the emails sent to a whole tagged group, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Customise the emails sent to a tagged group, such as reminders and approval requ
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

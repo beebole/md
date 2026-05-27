@@ -1,6 +1,6 @@
 **What it does**
 
-Define multi-step timesheet approval flows and apply them to everyone sharing a tag.
+Approval stages already work on your organization and people. With **Advanced Tags**, you can apply the same multi-step approval flow to everyone sharing a tag, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Define multi-step timesheet approval flows and apply them to everyone sharing a 
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

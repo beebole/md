@@ -1,6 +1,6 @@
 **What it does**
 
-Apply language, timezone and regional settings to everyone sharing a tag.
+Localisation already works on your organization and people. With **Advanced Tags**, you can apply language, timezone and regional settings to everyone sharing a tag, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Apply language, timezone and regional settings to everyone sharing a tag.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

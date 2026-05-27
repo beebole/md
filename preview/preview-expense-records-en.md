@@ -10,4 +10,4 @@ Capture the out-of-pocket spending your team makes on a project, right alongside
 
 ---
 
-Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to the **Essential** plan.

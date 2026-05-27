@@ -1,6 +1,6 @@
 **What it does**
 
-Apply timesheet rules — like rounding, periods and entry limits — to a tagged group.
+Time settings already work on your organization and people. With **Advanced Tags**, you can apply the same timesheet rules — rounding, periods, entry limits — to everyone sharing a tag, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Apply timesheet rules — like rounding, periods and entry limits — to a tagge
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.

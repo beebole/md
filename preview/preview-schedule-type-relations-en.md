@@ -1,6 +1,6 @@
 **What it does**
 
-Assign work schedules to everyone sharing a tag instead of person by person.
+Schedule assignments already work on your organization and people. With **Advanced Tags**, you can assign a work schedule to everyone sharing a tag, in one step.
 
 **Why use it**
 
@@ -10,4 +10,4 @@ Assign work schedules to everyone sharing a tag instead of person by person.
 
 ---
 
-Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom fields, custom roles & advanced configuration** add-on to the **Essential** plan.
