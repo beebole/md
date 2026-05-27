@@ -1,4 +1,4 @@
-## Email Templates by Tag
+**What it does**
 
 Customise the emails sent to a tagged group, such as reminders and approval requests.
 
@@ -10,4 +10,4 @@ Customise the emails sent to a tagged group, such as reminders and approval requ
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

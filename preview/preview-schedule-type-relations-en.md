@@ -1,4 +1,4 @@
-## Schedule Assignments by Tag
+**What it does**
 
 Assign work schedules to everyone sharing a tag instead of person by person.
 
@@ -10,4 +10,4 @@ Assign work schedules to everyone sharing a tag instead of person by person.
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

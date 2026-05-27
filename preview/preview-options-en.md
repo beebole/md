@@ -1,4 +1,4 @@
-## Options by Tag
+**What it does**
 
 Apply shared configuration options to every record carrying a tag.
 
@@ -10,4 +10,4 @@ Apply shared configuration options to every record carrying a tag.
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

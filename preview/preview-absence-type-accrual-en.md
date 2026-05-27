@@ -1,4 +1,4 @@
-## Absence Accruals
+**What it does**
 
 Automatically build up paid time off as your team works, instead of granting it all at once.
 
@@ -10,4 +10,4 @@ Automatically build up paid time off as your team works, instead of granting it 
 
 ---
 
-> **Upgrade to unlock Absence Accruals.** Included in the **Essential** and **Advanced** plans.
+Included in the **Essential** and **Advanced** plans.

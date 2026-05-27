@@ -1,4 +1,4 @@
-## Expenses
+**What it does**
 
 Capture the out-of-pocket spending your team makes on a project, right alongside the hours they log.
 
@@ -10,4 +10,4 @@ Capture the out-of-pocket spending your team makes on a project, right alongside
 
 ---
 
-> **Upgrade to unlock Expenses.** Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.

@@ -1,4 +1,4 @@
-## Costs
+**What it does**
 
 Record what your team actually costs per hour to reveal the true profitability of every project.
 
@@ -10,4 +10,4 @@ Record what your team actually costs per hour to reveal the true profitability o
 
 ---
 
-> **Upgrade to unlock Costs.** Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.

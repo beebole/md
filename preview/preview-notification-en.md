@@ -1,4 +1,4 @@
-## Notifications by Tag
+**What it does**
 
 Control which email and in-app notifications a tagged group receives.
 
@@ -10,4 +10,4 @@ Control which email and in-app notifications a tagged group receives.
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

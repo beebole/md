@@ -1,4 +1,4 @@
-## Custom Field Setup
+**What it does**
 
 Define your own fields to capture the data that matters to your business.
 
@@ -10,4 +10,4 @@ Define your own fields to capture the data that matters to your business.
 
 ---
 
-> **Upgrade to unlock Custom Fields.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

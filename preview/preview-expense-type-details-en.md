@@ -1,4 +1,4 @@
-## Expense Types
+**What it does**
 
 Define the categories of spending your team can report, each with its own rules and rates.
 
@@ -10,4 +10,4 @@ Define the categories of spending your team can report, each with its own rules 
 
 ---
 
-> **Upgrade to unlock Expenses.** Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.

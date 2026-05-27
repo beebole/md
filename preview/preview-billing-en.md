@@ -1,4 +1,4 @@
-## Billing Rates
+**What it does**
 
 Attach billable rates to your people and projects to turn tracked time into revenue.
 
@@ -10,4 +10,4 @@ Attach billable rates to your people and projects to turn tracked time into reve
 
 ---
 
-> **Upgrade to unlock Billing Rates.** Included in the **Essential** and **Advanced** plans.
+Included in the **Essential** and **Advanced** plans.

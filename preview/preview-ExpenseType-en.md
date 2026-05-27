@@ -1,4 +1,4 @@
-## Expense Types
+**What it does**
 
 Track and reimburse the money your team spends, not just the time they log.
 
@@ -10,4 +10,4 @@ Track and reimburse the money your team spends, not just the time they log.
 
 ---
 
-> **Upgrade to unlock Expenses.** Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.

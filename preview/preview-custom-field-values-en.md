@@ -1,4 +1,4 @@
-## Custom Field Values
+**What it does**
 
 Fill in your custom fields on projects, tasks and people to enrich every record.
 
@@ -10,4 +10,4 @@ Fill in your custom fields on projects, tasks and people to enrich every record.
 
 ---
 
-> **Upgrade to unlock Custom Fields.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

@@ -1,4 +1,4 @@
-## Absence Quotas
+**What it does**
 
 Set how much leave each person is entitled to and track what's left at a glance.
 
@@ -10,4 +10,4 @@ Set how much leave each person is entitled to and track what's left at a glance.
 
 ---
 
-> **Upgrade to unlock Absence Quotas.** Included in the **Essential** and **Advanced** plans.
+Included in the **Essential** and **Advanced** plans.

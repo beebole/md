@@ -1,4 +1,4 @@
-## Approval Stages by Tag
+**What it does**
 
 Define multi-step timesheet approval flows and apply them to everyone sharing a tag.
 
@@ -10,4 +10,4 @@ Define multi-step timesheet approval flows and apply them to everyone sharing a 
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

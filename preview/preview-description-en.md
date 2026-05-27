@@ -1,4 +1,4 @@
-## Description by Tag
+**What it does**
 
 Add rich, shared context and notes to a tag so everyone understands what it represents.
 
@@ -10,4 +10,4 @@ Add rich, shared context and notes to a tag so everyone understands what it repr
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

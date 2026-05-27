@@ -1,4 +1,4 @@
-## Custom Field Visibility
+**What it does**
 
 Control who can see and edit each custom field across your organisation.
 
@@ -10,4 +10,4 @@ Control who can see and edit each custom field across your organisation.
 
 ---
 
-> **Upgrade to unlock Custom Fields.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

@@ -1,4 +1,4 @@
-## Localisation by Tag
+**What it does**
 
 Apply language, timezone and regional settings to everyone sharing a tag.
 
@@ -10,4 +10,4 @@ Apply language, timezone and regional settings to everyone sharing a tag.
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

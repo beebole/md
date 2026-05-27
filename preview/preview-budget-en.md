@@ -1,4 +1,4 @@
-## Budgets
+**What it does**
 
 Set a time or cost budget on a project and watch progress against it as work happens.
 
@@ -10,4 +10,4 @@ Set a time or cost budget on a project and watch progress against it as work hap
 
 ---
 
-> **Upgrade to unlock Budgets.** Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Spend** add-on to your current plan.

@@ -1,4 +1,4 @@
-## Custom Fields
+**What it does**
 
 Capture the metadata that's unique to your business and turn it into powerful reporting dimensions.
 
@@ -10,4 +10,4 @@ Capture the metadata that's unique to your business and turn it into powerful re
 
 ---
 
-> **Upgrade to unlock Custom Fields.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

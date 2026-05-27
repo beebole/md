@@ -1,4 +1,4 @@
-## Public Holidays by Tag
+**What it does**
 
 Assign the right public-holiday calendar to everyone sharing a tag.
 
@@ -10,4 +10,4 @@ Assign the right public-holiday calendar to everyone sharing a tag.
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

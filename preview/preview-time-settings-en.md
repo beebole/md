@@ -1,4 +1,4 @@
-## Time Settings by Tag
+**What it does**
 
 Apply timesheet rules — like rounding, periods and entry limits — to a tagged group.
 
@@ -10,4 +10,4 @@ Apply timesheet rules — like rounding, periods and entry limits — to a tagge
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.

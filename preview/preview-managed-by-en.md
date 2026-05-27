@@ -1,4 +1,4 @@
-## Managed By, by Tag
+**What it does**
 
 Assign managers to every project or person carrying a tag in a single step.
 
@@ -10,4 +10,4 @@ Assign managers to every project or person carrying a tag in a single step.
 
 ---
 
-> **Upgrade to unlock Advanced Tags.** Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
+Available on the **Advanced** plan — or add the **Custom** add-on to your current plan.
