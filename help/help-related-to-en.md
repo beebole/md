@@ -1,4 +1,4 @@
-The related-to section shows the associations between this entity and other entities in the system. Depending on the entity type, this can include links to persons, projects, tasks, tags, or organisations. These relationships determine how settings are inherited and how data is grouped in reports.
+This section controls who has access to this entity. You can grant access to everyone, to no one, or to specific people and tags — anyone carrying a selected tag inherits access automatically. These settings determine who can see and work with this entity across the application.
 ---
 
 [Read more in the documentation →](https://help.beebole.com/help/documentation/assignments)

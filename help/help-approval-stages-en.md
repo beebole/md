@@ -1,4 +1,4 @@
-Approval stages define the sequential steps required to approve timesheets and absences. Each stage can be assigned to specific persons or tags, with an optional quorum setting to require only a subset of approvers. Stages are inherited from the organisation level and can be overridden per person or tag.
+The approval workflow defines the sequential stages required to approve timesheets. Each stage can be assigned to specific people, tags, or manager roles, with an optional quorum to require only a subset of approvers. The workflow is inherited from the organisation level and can be overridden per person or tag.
 ---
 
 [Read more in the documentation →](https://help.beebole.com/help/documentation/approval)
