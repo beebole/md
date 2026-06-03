@@ -4,9 +4,9 @@ Define your own fields to capture the data that matters to your business.
 
 **Why use it**
 
-- **Your data, your way** — choose text, number, dropdown or checkbox fields.
+- **Your data, your way** — choose text, number, date, dropdown or checkbox fields.
 - **Tailored tracking** — model the metadata your industry and workflow need.
-- **Clean by default** — make fields required to guarantee complete records.
+- **Guided entry** — set allowed values, defaults and validation to keep data consistent.
 
 ---
 

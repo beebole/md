@@ -5,7 +5,7 @@ Define the categories of spending your team can report, each with its own rules 
 **Why use it**
 
 - **Consistent claims** — standardise reporting with reusable types like Travel, Meals or Software.
-- **Automatic amounts** — set default or per-unit rates (e.g. mileage) so totals are calculated for you.
+- **Currency or quantity** — track each type as a money amount or a quantity (e.g. mileage), with an optional markup.
 - **Clean reporting** — every expense lands in the right bucket for accurate analysis.
 
 ---

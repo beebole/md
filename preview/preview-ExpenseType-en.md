@@ -5,7 +5,7 @@ Track and reimburse the money your team spends, not just the time they log.
 **Why use it**
 
 - **Tailored categories** — create expense types that match how your business spends.
-- **Project-linked** — let employees attach expenses to the right project or task.
+- **Project-linked** — let employees attach expenses to the right project.
 - **True cost picture** — report on labour and spend together in one place.
 
 ---

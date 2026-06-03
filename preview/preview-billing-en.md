@@ -4,7 +4,7 @@ Attach billable rates to your people and projects to turn tracked time into reve
 
 **Why use it**
 
-- **Flexible rates** — set them per person, project or role.
+- **Flexible rates** — set them per person or project.
 - **Revenue in real time** — watch billable value build up as hours are logged.
 - **Confident invoicing** — bill from accurate, rate-based totals instead of guesswork.
 
