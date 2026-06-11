@@ -2,4 +2,4 @@ La section Tags indique les tags auxquels cette entité appartient. L'associatio
 
 ---
 
-[En savoir plus dans la documentation →](https://help.beebole.com/help/documentation/tags)
+[En savoir plus dans la documentation →](https://beebole.com/help/documentation/tags)

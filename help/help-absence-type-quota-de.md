@@ -1,4 +1,4 @@
 Abwesenheitskontingente legen fest, wie viel Abwesenheit für jede Abwesenheitsart in einem bestimmten Zeitraum verfügbar ist. Sie können Start- und Enddatum, die Anzahl der verfügbaren Tage oder Stunden, Übertragungsgrenzen und Ansammlungskorrekturen festlegen. Kontingente werden von der Organisationsebene geerbt und können pro Tag oder Person angepasst werden.
 ---
 
-[Mehr in der Dokumentation →](https://help.beebole.com/help/documentation/timeoff)
+[Mehr in der Dokumentation →](https://beebole.com/help/documentation/timeoff)

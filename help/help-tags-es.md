@@ -2,4 +2,4 @@ La sección de etiquetas muestra a qué etiquetas pertenece esta entidad. El eti
 
 ---
 
-[Más información en la documentación →](https://help.beebole.com/help/documentation/tags)
+[Más información en la documentación →](https://beebole.com/help/documentation/tags)
