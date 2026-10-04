@@ -10,4 +10,4 @@ Associe tarifas de faturação às suas pessoas e projetos para transformar o te
 
 ---
 
-Incluído nos planos **Essencial** e **Avançado**.
+Incluído nos planos **Essential** e **Advanced**. Nas etiquetas, o plano **Essential** também precisa do módulo complementar **Campos personalizados, funções personalizadas e configuração avançada**.

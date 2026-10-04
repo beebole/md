@@ -10,4 +10,4 @@ Houd het geld bij dat je team uitgeeft en betaal het terug, niet alleen de tijd 
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Kosten, uitgaven en budgetten** toe aan het abonnement **Essential**.
+Beschikbaar in het abonnement **Advanced** — of voeg de add-on **Kosten, uitgaven en budgetten** toe aan het abonnement **Essential**.

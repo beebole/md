@@ -1,12 +1,12 @@
 **Co to umí**
 
-Určete, kdo může vidět a upravovat jednotlivá vlastní pole v celé vaší organizaci.
+Určete, kde se jednotlivá vlastní pole zobrazují v celé vaší organizaci.
 
 **Proč to používat**
 
-- **Udržte to soukromé** — zobrazujte citlivá pole jen těm správným lidem.
-- **Méně nepřehlednosti** — skryjte pole, která pro daný tým nejsou relevantní.
-- **Přesná kontrola** — rozhodněte u každého pole, zda ho uživatelé mohou číst nebo upravovat.
+- **Na správném místě** — zobrazte pole u osob, projektů, úkolů, záznamů času nebo nepřítomností, kdekoli je potřeba.
+- **Méně nepřehlednosti** — skryjte pole tam, kde nejsou relevantní.
+- **Přesná kontrola** — omezte pole na konkrétní kategorie projektů, plánování nebo typy nepřítomnosti.
 
 ---
 

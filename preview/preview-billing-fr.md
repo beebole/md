@@ -10,4 +10,4 @@ Associez des tarifs de facturation à vos personnes et à vos projets pour trans
 
 ---
 
-Inclus dans les abonnements **Essentiel** et **Avancé**.
+Inclus dans les abonnements **Essential** et **Advanced**. Sur les tags, l'abonnement **Essential** nécessite aussi le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée**.

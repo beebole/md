@@ -10,4 +10,4 @@ Az e-mail sablonok már működnek a szervezetén. A **Haladó címkék** segít
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Essential** csomaghoz.

@@ -10,4 +10,4 @@ Definieer de type onkosten die je team kan opvoeren, elk met eigen regels en tar
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Kosten, uitgaven en budgetten** toe aan het abonnement **Essential**.
+Beschikbaar in het abonnement **Advanced** — of voeg de add-on **Kosten, uitgaven en budgetten** toe aan het abonnement **Essential**.

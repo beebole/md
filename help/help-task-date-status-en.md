@@ -1,4 +1,4 @@
-Task date and status settings let you define start and end dates for this task, as well as its current status. Duration and progress information are calculated based on time entries logged against the task. These fields help track timelines and identify overdue or upcoming work.
+Task details hold this task's dates, planned time, and status. Pick the start and end dates, or uncheck All day to give the task exact start and end times, then enter the work in Planned in hours (or Planned in days): the pill next to it shows the capacity the owner's work schedule leaves between those dates. A parent task shows the period and total planned time of its subtasks instead.
 ---
 
 [Read more in the documentation →](https://beebole.com/help/documentation/planning)

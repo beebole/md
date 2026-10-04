@@ -1,6 +1,6 @@
 **Cosa fa**
 
-Il flusso di approvazione funziona già sulla tua organizzazione e sulle persone. Con i **Tag Avanzati** puoi applicare lo stesso processo di approvazione a più livelli a tutti coloro che condividono un tag, in un solo passaggio.
+Fai passare i timesheet inviati attraverso una o più fasi di approvazione prima che vengano approvati. Con i **Tag Avanzati** puoi applicare lo stesso processo di approvazione a più livelli a tutti coloro che condividono un tag, in un solo passaggio.
 
 **Perché usarlo**
 
@@ -10,4 +10,4 @@ Il flusso di approvazione funziona già sulla tua organizzazione e sulle persone
 
 ---
 
-Disponibile nel piano **Advanced** — oppure aggiungi il componente aggiuntivo **Campi personalizzati, ruoli personalizzati e configurazione avanzata** al piano **Essential**.
+Incluso nei piani **Essential** e **Advanced**. Sui tag, il piano **Essential** richiede anche il componente aggiuntivo **Campi personalizzati, ruoli personalizzati e configurazione avanzata**.

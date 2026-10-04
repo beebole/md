@@ -10,4 +10,4 @@ A munkaidő-nyilvántartás beállításai már működnek a szervezetén és a 
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Essential** csomaghoz.

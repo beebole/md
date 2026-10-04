@@ -1,6 +1,6 @@
 **Was es macht**
 
-Genehmigungsworkflows funktionieren bereits für Ihre Organisation und Personen. Mit **Erweiterten Tags** wenden Sie denselben mehrstufigen Genehmigungsablauf in einem Schritt auf alle an, die einen Tag teilen.
+Leiten Sie eingereichte Stundenzettel vor der Genehmigung durch eine oder mehrere Genehmigungsstufen. Mit **Erweiterten Tags** wenden Sie denselben mehrstufigen Genehmigungsablauf in einem Schritt auf alle an, die einen Tag teilen.
 
 **Warum Sie es nutzen sollten**
 
@@ -10,4 +10,4 @@ Genehmigungsworkflows funktionieren bereits für Ihre Organisation und Personen.
 
 ---
 
-Verfügbar im **Advanced**-Tarif — oder fügen Sie das Add-on **Benutzerdefinierte Felder, benutzerdefinierte Rollen und erweiterte Konfiguration** zum **Essential**-Tarif hinzu.
+Enthalten in den Tarifen **Essential** und **Advanced**. Für Tags benötigt der **Essential**-Tarif zusätzlich das Add-on **Benutzerdefinierte Felder, benutzerdefinierte Rollen und erweiterte Konfiguration**.

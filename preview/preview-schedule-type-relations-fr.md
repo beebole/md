@@ -10,4 +10,4 @@ L'affectation des horaires de travail fonctionne déjà sur votre organisation e
 
 ---
 
-Disponible avec l'abonnement **Avancé** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essentiel**.
+Disponible avec l'abonnement **Advanced** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essential**.

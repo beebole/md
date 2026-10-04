@@ -1,12 +1,12 @@
 **Was es macht**
 
-Steuern Sie, wer jedes benutzerdefinierte Feld in Ihrer Organisation sehen und bearbeiten darf.
+Steuern Sie, wo jedes benutzerdefinierte Feld in Ihrer Organisation erscheint.
 
 **Warum Sie es nutzen sollten**
 
-- **Vertraulich halten** — zeigen Sie sensible Felder nur den richtigen Personen.
-- **Weniger Unübersichtlichkeit** — blenden Sie Felder aus, die für ein bestimmtes Team nicht relevant sind.
-- **Genaue Kontrolle** — entscheiden Sie pro Feld, ob Nutzer lesen oder bearbeiten dürfen.
+- **Am richtigen Ort** — zeigen Sie ein Feld bei Personen, Projekten, Aufgaben, Zeiteinträgen oder Abwesenheiten, wo immer es gebraucht wird.
+- **Weniger Unübersichtlichkeit** — blenden Sie Felder dort aus, wo sie nicht relevant sind.
+- **Genaue Kontrolle** — beschränken Sie ein Feld auf bestimmte Projektkategorien, Planungen oder Abwesenheitsarten.
 
 ---
 

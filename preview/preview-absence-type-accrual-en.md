@@ -1,12 +1,12 @@
 **What it does**
 
-Automatically build up paid time off as your team works, instead of granting it all at once.
+Set how much paid time off your team earns each period, instead of granting it all at once.
 
 **Why use it**
 
-- **Set it and forget it** — accrue leave monthly, per period or by hours worked.
-- **Compliant by design** — match local labour rules and contracts without manual tracking.
-- **Always accurate** — give employees a balance they can trust at any moment.
+- **Flexible rules** — choose how often leave accrues, how much is earned and when it is awarded.
+- **Compliant by design** — match local labour rules and contracts.
+- **Clear balances** — show what each person has accrued alongside their allowance.
 
 ---
 

@@ -10,4 +10,4 @@ Stel in op hoeveel verlof elke persoon recht heeft en zie in één oogopslag wat
 
 ---
 
-Inbegrepen in de abonnementen **Essential** en **Geavanceerd**.
+Inbegrepen in de abonnementen **Essential** en **Advanced**. Op tags heeft het abonnement **Essential** daarnaast de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** nodig.

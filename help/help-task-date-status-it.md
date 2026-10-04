@@ -1,4 +1,4 @@
-Le impostazioni dei dettagli attività ti permettono di definire le date di inizio e fine di questa attività, oltre al suo stato attuale. Le informazioni su durata e avanzamento vengono calcolate in base alle registrazioni di tempo effettuate sull'attività. Questi campi aiutano a monitorare le tempistiche e a individuare il lavoro in ritardo o imminente.
+I dettagli dell'attività raccolgono le date, il tempo pianificato e lo stato di questa attività. Scegli le date di inizio e fine, oppure deseleziona «Giornata intera» per dare all'attività orari di inizio e fine precisi, poi inserisci il lavoro in «Pianificato in ore» (o «Pianificato in giorni»): l'indicatore accanto mostra la capacità che l'orario di lavoro del proprietario lascia tra quelle date. Un'attività padre mostra invece il periodo e il tempo pianificato totale delle sue sottoattività.
 ---
 
 [Maggiori informazioni nella documentazione →](https://beebole.com/help/documentation/planning)

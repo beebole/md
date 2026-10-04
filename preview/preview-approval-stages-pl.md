@@ -1,6 +1,6 @@
 **Do czego służy**
 
-Proces zatwierdzania działa już na poziomie organizacji i osób. Dzięki funkcji **Tagi zaawansowane** zastosujesz ten sam wieloetapowy przepływ zatwierdzania do wszystkich osób z danym tagiem — w jednym kroku.
+Przeprowadzaj przesłane grafiki przez jeden lub kilka etapów zatwierdzania, zanim zostaną zatwierdzone. Dzięki funkcji **Tagi zaawansowane** zastosujesz ten sam wieloetapowy przepływ zatwierdzania do wszystkich osób z danym tagiem — w jednym kroku.
 
 **Dlaczego warto**
 
@@ -10,4 +10,4 @@ Proces zatwierdzania działa już na poziomie organizacji i osób. Dzięki funkc
 
 ---
 
-Dostępne w planie **Advanced** — lub dodaj dodatek **Pola niestandardowe, role niestandardowe i konfiguracja zaawansowana** do planu **Essential**.
+Dostępne w planach **Essential** i **Advanced**. Na tagach plan **Essential** wymaga dodatkowo dodatku **Pola niestandardowe, role niestandardowe i konfiguracja zaawansowana**.

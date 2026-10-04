@@ -1,4 +1,4 @@
-La sezione «Responsabile di» mostra quali persone, progetti, attività e tag questa persona gestisce. I responsabili ricevono notifiche sugli elementi che supervisionano e possono approvare fogli ore e assenze per loro conto. Le assegnazioni di gestione possono essere impostate direttamente o ereditate tramite i tag.
+Questa sezione elenca i membri del team, i progetti, le attività e i tag che questa persona gestisce e, in «Gestito da», chi gestisce questa persona. Scegliendo un'intera categoria, come una categoria di progetti, una pianificazione o una categoria di tag, la persona diventa responsabile di tutto ciò che contiene, compresi gli elementi aggiunti in seguito; gestire un progetto include anche i suoi sottoprogetti, e gestire un tag include le persone e i progetti che lo portano. I responsabili possono ricevere notifiche quando vengono menzionati elementi che gestiscono, e approvano i fogli ore quando il flusso di approvazione include una fase Responsabili del team, Responsabili di progetto o Responsabili delle attività.
 ---
 
 [Maggiori informazioni nella documentazione →](https://beebole.com/help/documentation/assignments)

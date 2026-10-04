@@ -10,4 +10,4 @@ Os calendários de feriados já funcionam na sua organização e nas pessoas. Co
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essential**.

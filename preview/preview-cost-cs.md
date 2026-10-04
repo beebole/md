@@ -10,4 +10,4 @@ Zaznamenejte, kolik váš tým skutečně stojí za hodinu, a odhalte skutečnou
 
 ---
 
-Dostupné v tarifu **Advanced** — nebo přidejte doplněk **Náklady, výdaje a rozpočty** k tarifu **Essential**.
+Dostupné v tarifu **Advanced** — nebo přidejte doplněk **Náklady, výdaje a rozpočty** k tarifu **Essential**. U štítků tarif **Essential** navíc vyžaduje doplněk **Vlastní pole, vlastní role a pokročilá konfigurace**.

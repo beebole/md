@@ -10,4 +10,4 @@ Registe quanto a sua equipa custa realmente por hora para revelar a verdadeira r
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essential**. Nas etiquetas, o plano **Essential** também precisa do módulo complementar **Campos personalizados, funções personalizadas e configuração avançada**.

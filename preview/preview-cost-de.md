@@ -10,4 +10,4 @@ Erfassen Sie, was Ihr Team tatsächlich pro Stunde kostet, und decken Sie so die
 
 ---
 
-Verfügbar im **Advanced**-Tarif — oder fügen Sie das Add-on **Kosten, Ausgaben und Budgets** zum **Essential**-Tarif hinzu.
+Verfügbar im **Advanced**-Tarif — oder fügen Sie das Add-on **Kosten, Ausgaben und Budgets** zum **Essential**-Tarif hinzu. Für Tags benötigt der **Essential**-Tarif zusätzlich das Add-on **Benutzerdefinierte Felder, benutzerdefinierte Rollen und erweiterte Konfiguration**.

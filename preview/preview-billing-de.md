@@ -10,4 +10,4 @@ Hinterlegen Sie abrechenbare Sätze für Ihre Personen und Projekte, um erfasste
 
 ---
 
-Enthalten in den Tarifen **Essential** und **Advanced**.
+Enthalten in den Tarifen **Essential** und **Advanced**. Für Tags benötigt der **Essential**-Tarif zusätzlich das Add-on **Benutzerdefinierte Felder, benutzerdefinierte Rollen und erweiterte Konfiguration**.

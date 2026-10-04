@@ -1,4 +1,4 @@
-La configuración de usuario gestiona las credenciales de inicio de sesión, la dirección de correo electrónico y el rol asignado de esta persona. Desde aquí puede invitar a la persona a unirse a la plataforma o comprobar si ya ha iniciado sesión. El rol asignado determina qué permisos tiene esta persona en toda la aplicación.
+Esta sección contiene la dirección de correo electrónico con la que esta persona inicia sesión y el rol que tiene asignado. El rol determina qué puede ver y hacer esta persona en toda la aplicación. Mientras la persona no se haya unido, aparece en la parte superior de su perfil el botón «Invitar por email», con el estado «Invitación pendiente» una vez enviada una invitación.
 ---
 
 [Más información en la documentación →](https://beebole.com/help/documentation/people)

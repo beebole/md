@@ -10,4 +10,4 @@ Capte os dados que são exclusivos do seu negócio e transforme-os em dimensões
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essential**.

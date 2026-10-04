@@ -10,4 +10,4 @@ A munkarend-hozzárendelések már működnek a szervezetén és a személyeken.
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Essential** csomaghoz.

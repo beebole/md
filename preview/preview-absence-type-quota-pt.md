@@ -10,4 +10,4 @@ Defina a quantas ausências cada pessoa tem direito e acompanhe num relance o qu
 
 ---
 
-Incluído nos planos **Essencial** e **Avançado**.
+Incluído nos planos **Essential** e **Advanced**. Nas etiquetas, o plano **Essential** também precisa do módulo complementar **Campos personalizados, funções personalizadas e configuração avançada**.

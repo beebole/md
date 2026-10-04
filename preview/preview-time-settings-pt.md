@@ -10,4 +10,4 @@ As definições do mapa de horas já funcionam na sua organização e nas pessoa
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essential**.

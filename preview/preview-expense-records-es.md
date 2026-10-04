@@ -10,4 +10,4 @@ Captura los gastos de bolsillo que hace tu equipo en un proyecto, junto a las ho
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Costes, gastos y presupuestos** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Costes, gastos y presupuestos** al plan **Essential**.

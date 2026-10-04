@@ -10,4 +10,4 @@ Captura los metadatos propios de tu negocio y conviértelos en potentes dimensio
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Essential**.

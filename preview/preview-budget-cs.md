@@ -5,7 +5,7 @@ Nastavte časový nebo nákladový rozpočet projektu a sledujte jeho čerpání
 **Proč to používat**
 
 - **Strop s jistotou** — omezujte projekty podle hodin, nákladů nebo fakturované částky.
-- **Včasná varování** — dostaňte upozornění dřív, než rozpočet překročíte, ne až potom.
+- **Včasná varování** — odhalte projekty, které směřují k překročení rozpočtu, dřív, než k němu dojde, ne až potom.
 - **Přesnější odhady** — porovnejte plán se skutečností a příště lépe naceňte.
 
 ---

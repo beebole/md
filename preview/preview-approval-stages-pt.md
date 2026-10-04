@@ -1,6 +1,6 @@
 **O que faz**
 
-O fluxo de aprovação já funciona na sua organização e nas pessoas. Com as **Etiquetas avançadas**, pode aplicar o mesmo fluxo de aprovação em vários níveis a todos os que partilham uma etiqueta, num só passo.
+Faça passar os mapas de horas submetidos por uma ou mais etapas de aprovação antes de serem aprovados. Com as **Etiquetas avançadas**, pode aplicar o mesmo fluxo de aprovação em vários níveis a todos os que partilham uma etiqueta, num só passo.
 
 **Porquê usar**
 
@@ -10,4 +10,4 @@ O fluxo de aprovação já funciona na sua organização e nas pessoas. Com as *
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essencial**.
+Incluído nos planos **Essential** e **Advanced**. Nas etiquetas, o plano **Essential** também precisa do módulo complementar **Campos personalizados, funções personalizadas e configuração avançada**.

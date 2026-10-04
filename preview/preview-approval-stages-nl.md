@@ -1,6 +1,6 @@
 **Wat het doet**
 
-De goedkeuringsworkflow werkt al op je organisatie en personen. Met **Geavanceerde tags** pas je dezelfde meerstaps-goedkeuringsflow in één keer toe op iedereen die een tag deelt.
+Laat ingediende timesheets één of meer goedkeuringsfasen doorlopen voordat ze worden goedgekeurd. Met **Geavanceerde tags** pas je dezelfde meerstaps-goedkeuringsflow in één keer toe op iedereen die een tag deelt.
 
 **Waarom gebruiken**
 
@@ -10,4 +10,4 @@ De goedkeuringsworkflow werkt al op je organisatie en personen. Met **Geavanceer
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.
+Inbegrepen in de abonnementen **Essential** en **Advanced**. Op tags heeft het abonnement **Essential** daarnaast de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** nodig.

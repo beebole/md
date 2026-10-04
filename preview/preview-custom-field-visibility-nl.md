@@ -1,13 +1,13 @@
 **Wat het doet**
 
-Bepaal wie elk aangepast veld in je organisatie kan zien en bewerken.
+Bepaal waar elk aangepast veld in je organisatie verschijnt.
 
 **Waarom gebruiken**
 
-- **Houd het privé** — toon gevoelige velden alleen aan de juiste personen.
-- **Minder rommel** — verberg velden die niet relevant zijn voor een bepaald team.
-- **Nauwkeurige controle** — bepaal per veld of gebruikers het kunnen lezen of bewerken.
+- **Op de juiste plek** — toon een veld bij personen, projecten, taken, tijdregistraties of afwezigheden, overal waar het nodig is.
+- **Minder rommel** — verberg velden waar ze niet relevant zijn.
+- **Nauwkeurige controle** — beperk een veld tot specifieke projectcategorieën, planningen of afwezigheidstypes.
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.
+Beschikbaar in het abonnement **Advanced** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.

@@ -10,4 +10,4 @@ Controle e reembolse o dinheiro que a sua equipa gasta, não apenas o tempo que 
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essential**.

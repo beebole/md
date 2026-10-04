@@ -10,4 +10,4 @@ Attach billable rates to your people and projects to turn tracked time into reve
 
 ---
 
-Included in the **Essential** and **Advanced** plans.
+Included in the **Essential** and **Advanced** plans. On tags, the **Essential** plan also needs the **Custom fields, custom roles & advanced configuration** add-on.

@@ -1,4 +1,4 @@
-Ustawienia pokazywania lub ukrywania określają, które typy elementów i funkcje są widoczne w całej organizacji. Możesz pokazać lub ukryć moduły takie jak projekty, zadania, tagi, nieobecności, wydatki i budżety. Ukrycie modułu usuwa go z interfejsu dla wszystkich użytkowników w organizacji.
+Ustawienia pokazywania lub ukrywania określają, czy każdy rodzaj elementów jest domyślnie dostępny dla wszystkich w organizacji: projekty, projekty podrzędne, zadania, nieobecności, wydatki, harmonogramy i pola niestandardowe. Gdy opcja jest wyłączona, te elementy pozostają ukryte, dopóki nie udostępnisz ich indywidualnie, dla danego elementu w sekcji Kto ma dostęp? albo dla tagu, osoby lub projektu w sekcji Pokaż lub ukryj.
 ---
 
 [Dowiedz się więcej w dokumentacji →](https://beebole.com/help/documentation/account-settings)

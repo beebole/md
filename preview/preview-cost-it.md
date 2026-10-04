@@ -10,4 +10,4 @@ Registra quanto costa davvero il tuo team all'ora per scoprire la reale redditiv
 
 ---
 
-Disponibile nel piano **Advanced** — oppure aggiungi il componente aggiuntivo **Costi, spese e budget** al piano **Essential**.
+Disponibile nel piano **Advanced** — oppure aggiungi il componente aggiuntivo **Costi, spese e budget** al piano **Essential**. Sui tag, il piano **Essential** richiede anche il componente aggiuntivo **Campi personalizzati, ruoli personalizzati e configurazione avanzata**.

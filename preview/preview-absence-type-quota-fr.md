@@ -10,4 +10,4 @@ Définissez à combien de congés chaque personne a droit et suivez d'un coup d'
 
 ---
 
-Inclus dans les abonnements **Essentiel** et **Avancé**.
+Inclus dans les abonnements **Essential** et **Advanced**. Sur les tags, l'abonnement **Essential** nécessite aussi le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée**.

@@ -10,4 +10,4 @@ Record what your team actually costs per hour to reveal the true profitability o
 
 ---
 
-Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to the **Essential** plan.
+Available on the **Advanced** plan — or add the **Costs, Expenses & Budgets** add-on to the **Essential** plan. On tags, the **Essential** plan also needs the **Custom fields, custom roles & advanced configuration** add-on.

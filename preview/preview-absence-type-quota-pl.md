@@ -10,4 +10,4 @@ Określ, ile urlopu przysługuje każdej osobie, i jednym spojrzeniem sprawdź, 
 
 ---
 
-Dostępne w planach **Essential** i **Advanced**.
+Dostępne w planach **Essential** i **Advanced**. Na tagach plan **Essential** wymaga dodatkowo dodatku **Pola niestandardowe, role niestandardowe i konfiguracja zaawansowana**.

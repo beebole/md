@@ -10,4 +10,4 @@ Kövesse nyomon és térítse meg a csapata kiadásait, ne csak a ledolgozott id
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Essential** csomaghoz.

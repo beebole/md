@@ -10,4 +10,4 @@ Przypisz stawki rozliczeniowe do osób i projektów, aby przekształcić rejestr
 
 ---
 
-Dostępne w planach **Essential** i **Advanced**.
+Dostępne w planach **Essential** i **Advanced**. Na tagach plan **Essential** wymaga dodatkowo dodatku **Pola niestandardowe, role niestandardowe i konfiguracja zaawansowana**.

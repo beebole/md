@@ -10,4 +10,4 @@ Define a cuántas ausencias tiene derecho cada persona y consulta de un vistazo 
 
 ---
 
-Incluido en los planes **Esencial** y **Avanzado**.
+Incluido en los planes **Essential** y **Advanced**. En las etiquetas, el plan **Essential** también necesita el complemento **Campos personalizados, roles personalizados y configuración avanzada**.

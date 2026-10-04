@@ -10,4 +10,4 @@ Rejestruj rzeczywisty koszt godziny pracy zespołu, aby poznać prawdziwą rento
 
 ---
 
-Dostępne w planie **Advanced** — lub dodaj dodatek **Koszty, wydatki i budżety** do planu **Essential**.
+Dostępne w planie **Advanced** — lub dodaj dodatek **Koszty, wydatki i budżety** do planu **Essential**. Na tagach plan **Essential** wymaga dodatkowo dodatku **Pola niestandardowe, role niestandardowe i konfiguracja zaawansowana**.

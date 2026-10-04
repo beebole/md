@@ -10,4 +10,4 @@ Je kunt al instellen wie elk project of elke persoon beheert. Met **Geavanceerde
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.
+Beschikbaar in het abonnement **Advanced** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.

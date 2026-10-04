@@ -10,4 +10,4 @@ Registra lo que realmente cuesta tu equipo por hora para revelar la rentabilidad
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Costes, gastos y presupuestos** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Costes, gastos y presupuestos** al plan **Essential**. En las etiquetas, el plan **Essential** también necesita el complemento **Campos personalizados, roles personalizados y configuración avanzada**.

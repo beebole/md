@@ -10,4 +10,4 @@ As descrições já funcionam em pessoas, projetos e tarefas. Com as **Etiquetas
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essential**.

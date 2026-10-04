@@ -5,9 +5,9 @@
 **Miért érdemes használni**
 
 - **Korlátozzon magabiztosan** — limitálja a projekteket órák, költség vagy számlázható összeg szerint.
-- **Korai figyelmeztetések** — kapjon riasztást a túllépés előtt, ne utána.
+- **Korai figyelmeztetések** — szúrja ki a túllépés felé tartó projekteket még a túllépés előtt, ne utána.
 - **Pontosabb becslések** — hasonlítsa össze a tervezettet a tényadatokkal, hogy legközelebb jobban árazzon.
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Essential** csomaghoz.

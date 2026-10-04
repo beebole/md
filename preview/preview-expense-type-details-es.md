@@ -10,4 +10,4 @@ Define las categorías de gasto que tu equipo puede declarar, cada una con sus p
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Costes, gastos y presupuestos** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Costes, gastos y presupuestos** al plan **Essential**.

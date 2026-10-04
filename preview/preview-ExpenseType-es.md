@@ -10,4 +10,4 @@ Controla y reembolsa el dinero que gasta tu equipo, no solo el tiempo que regist
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Costes, gastos y presupuestos** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Costes, gastos y presupuestos** al plan **Essential**.

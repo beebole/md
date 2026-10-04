@@ -1,12 +1,12 @@
 **Do czego służy**
 
-Automatycznie naliczaj płatny urlop w miarę pracy zespołu, zamiast przyznawać go w całości z góry.
+Określ, ile płatnego urlopu Twój zespół nabywa w każdym okresie, zamiast przyznawać go w całości z góry.
 
 **Dlaczego warto**
 
-- **Ustaw i zapomnij** — naliczaj urlop miesięcznie, za okres lub według przepracowanych godzin.
-- **Zgodne z przepisami** — dopasuj naliczenia do lokalnego prawa pracy i umów bez ręcznego śledzenia.
-- **Zawsze aktualne** — daj pracownikom saldo, któremu mogą zaufać w każdej chwili.
+- **Elastyczne reguły** — wybierz, jak często naliczany jest urlop, ile się nalicza i kiedy jest przyznawany.
+- **Zgodne z przepisami** — dopasuj naliczenia do lokalnego prawa pracy i umów.
+- **Przejrzyste salda** — pokazuj obok przydziału, ile naliczono każdej osobie.
 
 ---
 

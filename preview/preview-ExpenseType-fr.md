@@ -10,4 +10,4 @@ Suivez et remboursez les dépenses de votre équipe, et plus seulement le temps 
 
 ---
 
-Disponible avec l'abonnement **Avancé** — ou ajoutez le module complémentaire **Coûts, dépenses et budgets** à l'abonnement **Essentiel**.
+Disponible avec l'abonnement **Advanced** — ou ajoutez le module complémentaire **Coûts, dépenses et budgets** à l'abonnement **Essential**.

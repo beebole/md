@@ -1,6 +1,6 @@
 **Qué hace**
 
-La aprobación ya funciona en tu organización y tus personas. Con las **Etiquetas avanzadas**, puedes aplicar el mismo flujo de aprobación de varios niveles a todos los que comparten una etiqueta, en un solo paso.
+Haz pasar las hojas de tiempo enviadas por una o varias etapas de aprobación antes de aprobarlas. Con las **Etiquetas avanzadas**, puedes aplicar el mismo flujo de aprobación de varios niveles a todos los que comparten una etiqueta, en un solo paso.
 
 **Por qué usarlo**
 
@@ -10,4 +10,4 @@ La aprobación ya funciona en tu organización y tus personas. Con las **Etiquet
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Esencial**.
+Incluido en los planes **Essential** y **Advanced**. En las etiquetas, el plan **Essential** también necesita el complemento **Campos personalizados, roles personalizados y configuración avanzada**.

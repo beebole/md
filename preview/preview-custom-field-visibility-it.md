@@ -1,12 +1,12 @@
 **Cosa fa**
 
-Controlla chi può vedere e modificare ogni campo personalizzato in tutta la tua organizzazione.
+Controlla dove compare ogni campo personalizzato in tutta la tua organizzazione.
 
 **Perché usarlo**
 
-- **Mantieni la riservatezza** — mostra i campi sensibili solo alle persone giuste.
-- **Meno confusione** — nascondi i campi non rilevanti per un determinato team.
-- **Controllo preciso** — decidi per ogni campo se gli utenti possono leggerlo o modificarlo.
+- **Al posto giusto** — mostra un campo su persone, progetti, attività, registrazioni di tempo o assenze, ovunque serva.
+- **Meno confusione** — nascondi i campi dove non sono rilevanti.
+- **Controllo preciso** — limita un campo a categorie di progetto, pianificazioni o tipi di assenza specifici.
 
 ---
 

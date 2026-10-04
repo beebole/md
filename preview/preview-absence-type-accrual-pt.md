@@ -1,13 +1,13 @@
 **O que faz**
 
-Acumule automaticamente os dias de ausência remunerados à medida que a sua equipa trabalha, em vez de os atribuir de uma só vez.
+Defina quantos dias de ausência remunerados a sua equipa acumula em cada período, em vez de os atribuir de uma só vez.
 
 **Porquê usar**
 
-- **Configure e esqueça** — acumule ausências mensalmente, por período ou por horas trabalhadas.
-- **Conformidade garantida** — respeite as regras laborais e os contratos locais sem controlo manual.
-- **Sempre exato** — dê aos colaboradores um saldo em que podem confiar a qualquer momento.
+- **Regras flexíveis** — escolha com que frequência as ausências se acumulam, quanto se acumula e quando é atribuído.
+- **Conformidade garantida** — respeite as regras laborais e os contratos locais.
+- **Saldos claros** — mostre o que cada pessoa acumulou ao lado da sua dotação.
 
 ---
 
-Incluído nos planos **Essencial** e **Avançado**.
+Incluído nos planos **Essential** e **Advanced**.

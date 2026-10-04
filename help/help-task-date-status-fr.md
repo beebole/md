@@ -1,4 +1,4 @@
-Les détails de la tâche vous permettent de définir les dates de début et de fin de cette tâche, ainsi que son statut actuel. Les informations de durée et de progression sont calculées à partir des saisies de temps enregistrées sur la tâche. Ces champs aident à suivre les échéances et à identifier le travail en retard ou à venir.
+Les détails de la tâche regroupent ses dates, son temps planifié et son statut. Choisissez les dates de début et de fin, ou décochez « Journée entière » pour donner à la tâche des heures de début et de fin précises, puis indiquez le travail dans « Planifié en heures » (ou « Planifié en jours ») : l'indicateur à côté montre la capacité que l'horaire de travail du propriétaire laisse entre ces dates. Une tâche parente affiche à la place la période et le temps planifié total de ses sous-tâches.
 ---
 
 [En savoir plus dans la documentation →](https://beebole.com/help/documentation/planning)

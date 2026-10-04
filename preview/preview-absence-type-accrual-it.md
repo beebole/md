@@ -1,12 +1,12 @@
 **Cosa fa**
 
-Accumula automaticamente i giorni di ferie man mano che il team lavora, invece di assegnarli tutti in una volta.
+Stabilisci quante ferie retribuite matura il tuo team in ogni periodo, invece di assegnarle tutte in una volta.
 
 **Perché usarlo**
 
-- **Imposta e dimentica** — matura le assenze ogni mese, per periodo o in base alle ore lavorate.
-- **Conforme per natura** — rispetta normative e contratti locali senza calcoli manuali.
-- **Sempre preciso** — offri ai dipendenti un saldo affidabile in ogni momento.
+- **Regole flessibili** — scegli ogni quanto maturano le assenze, quanto si matura e quando viene assegnato.
+- **Conforme per natura** — rispetta normative e contratti locali.
+- **Saldi chiari** — mostra quanto ha maturato ogni persona accanto alla sua disponibilità.
 
 ---
 

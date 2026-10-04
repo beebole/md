@@ -10,4 +10,4 @@ Přiřaďte fakturační sazby osobám a projektům a proměňte zaznamenaný č
 
 ---
 
-Součástí tarifů **Essential** a **Advanced**.
+Součástí tarifů **Essential** a **Advanced**. U štítků tarif **Essential** navíc vyžaduje doplněk **Vlastní pole, vlastní role a pokročilá konfigurace**.

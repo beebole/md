@@ -10,4 +10,4 @@ Set how much leave each person is entitled to and track what's left at a glance.
 
 ---
 
-Included in the **Essential** and **Advanced** plans.
+Included in the **Essential** and **Advanced** plans. On tags, the **Essential** plan also needs the **Custom fields, custom roles & advanced configuration** add-on.

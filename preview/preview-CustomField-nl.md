@@ -10,4 +10,4 @@ Leg de gegevens vast die uniek zijn voor jouw bedrijf en zet ze om in krachtige 
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.
+Beschikbaar in het abonnement **Advanced** — of voeg de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** toe aan het abonnement **Essential**.

@@ -10,4 +10,4 @@ Associa tariffe fatturabili a persone e progetti per trasformare il tempo regist
 
 ---
 
-Incluso nei piani **Essential** e **Advanced**.
+Incluso nei piani **Essential** e **Advanced**. Sui tag, il piano **Essential** richiede anche il componente aggiuntivo **Campi personalizzati, ruoli personalizzati e configurazione avanzata**.

@@ -1,4 +1,4 @@
-Budgets let you set financial or time-based targets for this project over a defined period. You can track hours, billing, or cost against the budget and split allocations by person or project. Budget progress is calculated automatically from logged time entries and expenses.
+Budgets let you set financial or time-based targets for this project, counted from a chosen date or from the start of the project. You can track hours, billing, or cost against the budget and split allocations by person or project. Budget progress is calculated automatically from logged time entries and expenses.
 ---
 
 [Read more in the documentation →](https://beebole.com/help/documentation/budgets)

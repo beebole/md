@@ -1,6 +1,6 @@
 **Ce que ça fait**
 
-L'approbation fonctionne déjà sur votre organisation et vos personnes. Avec les **Tags avancés**, vous appliquez le même circuit d'approbation en plusieurs étapes à tous ceux qui partagent un tag, en une seule fois.
+Faites passer les feuilles d'activités soumises par une ou plusieurs étapes d'approbation avant leur validation. Avec les **Tags avancés**, vous appliquez le même circuit d'approbation en plusieurs étapes à tous ceux qui partagent un tag, en une seule fois.
 
 **Pourquoi l'utiliser**
 
@@ -10,4 +10,4 @@ L'approbation fonctionne déjà sur votre organisation et vos personnes. Avec le
 
 ---
 
-Disponible avec l'abonnement **Avancé** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essentiel**.
+Inclus dans les abonnements **Essential** et **Advanced**. Sur les tags, l'abonnement **Essential** nécessite aussi le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée**.

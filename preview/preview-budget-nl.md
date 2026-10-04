@@ -5,9 +5,9 @@ Stel een tijds- of kostenbudget in op een project en volg de voortgang terwijl h
 **Waarom gebruiken**
 
 - **Begrens met vertrouwen** — beperk projecten op uren, kosten of factureerbaar bedrag.
-- **Tijdige waarschuwingen** — krijg een melding vóór een overschrijding, niet erna.
+- **Tijdige waarschuwingen** — zie projecten die op een overschrijding afstevenen vóór het zover is, niet erna.
 - **Scherpere ramingen** — vergelijk gepland met werkelijk en offreer de volgende keer beter.
 
 ---
 
-Beschikbaar in het abonnement **Geavanceerd** — of voeg de add-on **Kosten, uitgaven en budgetten** toe aan het abonnement **Essential**.
+Beschikbaar in het abonnement **Advanced** — of voeg de add-on **Kosten, uitgaven en budgetten** toe aan het abonnement **Essential**.

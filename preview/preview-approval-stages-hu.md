@@ -1,6 +1,6 @@
 **Mire való**
 
-A jóváhagyási folyamat már működik a szervezetén és a személyeken. A **Haladó címkék** segítségével ugyanazt a többlépcsős jóváhagyási folyamatot egyetlen lépésben alkalmazhatja mindenkire, aki ugyanazt a címkét viseli.
+Vezesse végig a beküldött munkaidő-nyilvántartásokat egy vagy több jóváhagyási szakaszon, mielőtt jóváhagyásra kerülnek. A **Haladó címkék** segítségével ugyanazt a többlépcsős jóváhagyási folyamatot egyetlen lépésben alkalmazhatja mindenkire, aki ugyanazt a címkét viseli.
 
 **Miért érdemes használni**
 
@@ -10,4 +10,4 @@ A jóváhagyási folyamat már működik a szervezetén és a személyeken. A **
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Alapvető** csomaghoz.
+Az **Essential** és az **Advanced** csomag része. Címkéken az **Essential** csomaghoz az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítő is szükséges.

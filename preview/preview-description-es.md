@@ -10,4 +10,4 @@ Las descripciones ya funcionan en personas, proyectos y tareas. Con las **Etique
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Essential**.

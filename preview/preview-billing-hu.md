@@ -10,4 +10,4 @@ Rendeljen számlázási díjakat a személyeihez és projektjeihez, hogy a rögz
 
 ---
 
-Az **Alapvető** és a **Haladó** csomag része.
+Az **Essential** és az **Advanced** csomag része. Címkéken az **Essential** csomaghoz az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítő is szükséges.

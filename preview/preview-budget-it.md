@@ -5,7 +5,7 @@ Imposta un budget di tempo o di costo su un progetto e monitora l'avanzamento me
 **Perché usarlo**
 
 - **Limiti con sicurezza** — definisci un tetto ai progetti in ore, costo o importo fatturabile.
-- **Avvisi tempestivi** — ricevi una segnalazione prima di sforare, non dopo.
+- **Avvisi tempestivi** — individua i progetti a rischio di sforamento prima che accada, non dopo.
 - **Stime più precise** — confronta pianificato e reale per preventivare meglio la prossima volta.
 
 ---

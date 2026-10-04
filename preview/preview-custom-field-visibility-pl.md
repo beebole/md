@@ -1,12 +1,12 @@
 **Do czego służy**
 
-Kontroluj, kto może widzieć i edytować każde pole niestandardowe w całej organizacji.
+Kontroluj, gdzie pojawia się każde pole niestandardowe w całej organizacji.
 
 **Dlaczego warto**
 
-- **Zachowaj poufność** — pokazuj wrażliwe pola tylko właściwym osobom.
-- **Mniej bałaganu** — ukrywaj pola, które nie dotyczą danego zespołu.
-- **Precyzyjna kontrola** — decyduj dla każdego pola, czy użytkownicy mogą je odczytywać, czy edytować.
+- **We właściwym miejscu** — pokazuj pole przy osobach, projektach, zadaniach, zapisach czasu lub absencjach, wszędzie tam, gdzie jest potrzebne.
+- **Mniej bałaganu** — ukrywaj pola tam, gdzie nie są istotne.
+- **Precyzyjna kontrola** — ogranicz pole do wybranych kategorii projektów, planów lub typów absencji.
 
 ---
 

@@ -10,4 +10,4 @@ Preencha os seus campos personalizados em projetos, tarefas e pessoas para enriq
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Campos personalizados, funções personalizadas e configuração avançada** ao plano **Essential**.

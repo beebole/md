@@ -10,4 +10,4 @@ Les modèles d'e-mail fonctionnent déjà sur votre organisation. Avec les **Tag
 
 ---
 
-Disponible avec l'abonnement **Avancé** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essentiel**.
+Disponible avec l'abonnement **Advanced** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essential**.

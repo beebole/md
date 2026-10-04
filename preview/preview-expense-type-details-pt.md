@@ -10,4 +10,4 @@ Defina as categorias de despesa que a sua equipa pode reportar, cada uma com as 
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essential**.

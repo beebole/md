@@ -10,4 +10,4 @@ Les paramètres de feuille d'activités fonctionnent déjà sur votre organisati
 
 ---
 
-Disponible avec l'abonnement **Avancé** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essentiel**.
+Disponible avec l'abonnement **Advanced** — ou ajoutez le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée** à l'abonnement **Essential**.

@@ -10,4 +10,4 @@ Rögzítse, mennyibe kerül valójában a csapata óránként, hogy felfedje min
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Essential** csomaghoz. Címkéken az **Essential** csomaghoz az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítő is szükséges.

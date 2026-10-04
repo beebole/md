@@ -10,4 +10,4 @@ Los calendarios de días festivos ya funcionan en tu organización y tus persona
 
 ---
 
-Disponible en el plan **Avanzado**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Esencial**.
+Disponible en el plan **Advanced**, o añade el complemento **Campos personalizados, roles personalizados y configuración avanzada** al plan **Essential**.

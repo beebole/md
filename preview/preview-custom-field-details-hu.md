@@ -4,10 +4,10 @@ Határozza meg saját mezőit, hogy rögzítse a vállalkozása számára fontos
 
 **Miért érdemes használni**
 
-- **Az Ön adatai, az Ön módján** — válasszon szöveg-, szám-, dátum-, legördülő- vagy jelölőnégyzet-mezőt.
+- **Az Ön adatai, az Ön módján** — válasszon szöveg-, szám-, dátum-, legördülő-, jelölőnégyzet- vagy egyedi azonosító mezőt.
 - **Testreszabott nyilvántartás** — modellezze az iparága és a munkafolyamata által igényelt metaadatokat.
-- **Vezetett bevitel** — állítson be engedélyezett értékeket, alapértelmezéseket és érvényesítést az adatok következetességéért.
+- **Vezetett bevitel** — állítson be engedélyezett értékeket, helyőrző szöveget és érvényesítést az adatok következetességéért.
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Essential** csomaghoz.

@@ -10,4 +10,4 @@ Registe as despesas que a sua equipa faz do próprio bolso num projeto, lado a l
 
 ---
 
-Disponível no plano **Avançado** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essencial**.
+Disponível no plano **Advanced** — ou adicione o módulo complementar **Custos, despesas e orçamentos** ao plano **Essential**.

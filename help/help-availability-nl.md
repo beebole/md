@@ -1,4 +1,4 @@
-Met de instellingen voor standaard tonen of verbergen bepaalt u welke entiteitstypen en functies binnen de organisatie zichtbaar zijn. U kunt modules zoals projecten, taken, tags, afwezigheden, onkosten en budgetten tonen of verbergen. Wanneer u een module verbergt, wordt deze uit de interface verwijderd voor alle gebruikers in de organisatie.
+Met de instellingen voor standaard tonen of verbergen bepaalt u of elk soort item standaard voor iedereen in de organisatie beschikbaar is: projecten, subprojecten, taken, afwezigheden, uitgaven, planningen en aangepaste velden. Wanneer een optie is uitgeschakeld, blijven die items verborgen totdat u ze afzonderlijk toekent, per item onder Wie heeft toegang? of per tag, persoon of project onder Tonen of verbergen.
 ---
 
 [Lees meer in de documentatie →](https://beebole.com/help/documentation/account-settings)

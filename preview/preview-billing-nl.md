@@ -10,4 +10,4 @@ Koppel facturatietarieven aan je personen en projecten en zet geregistreerde tij
 
 ---
 
-Inbegrepen in de abonnementen **Essential** en **Geavanceerd**.
+Inbegrepen in de abonnementen **Essential** en **Advanced**. Op tags heeft het abonnement **Essential** daarnaast de add-on **Aangepaste velden, aangepaste rollen en geavanceerde configuratie** nodig.

@@ -1,12 +1,12 @@
 **What it does**
 
-Control who can see and edit each custom field across your organisation.
+Control where each custom field appears across your organisation.
 
 **Why use it**
 
-- **Keep it private** — show sensitive fields only to the right people.
-- **Less clutter** — hide fields that aren't relevant to a given team.
-- **Precise control** — decide per field whether users can read or edit.
+- **Right place** — show a field on people, projects, tasks, time entries or absences, wherever it's needed.
+- **Less clutter** — hide fields where they aren't relevant.
+- **Precise control** — limit a field to specific project categories, plannings or absence types.
 
 ---
 

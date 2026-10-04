@@ -1,13 +1,13 @@
 **Mire való**
 
-Szabályozza, ki láthatja és szerkesztheti az egyes egyéni mezőket a szervezetében.
+Szabályozza, hol jelenjenek meg az egyes egyéni mezők a szervezetében.
 
 **Miért érdemes használni**
 
-- **Tartsa bizalmasan** — az érzékeny mezőket csak a megfelelő személyeknek mutassa meg.
-- **Kevesebb zsúfoltság** — rejtse el azokat a mezőket, amelyek egy adott csapat számára nem relevánsak.
-- **Pontos szabályozás** — döntse el mezőnként, hogy a felhasználók olvashatják vagy szerkeszthetik-e.
+- **A megfelelő helyen** — jelenítse meg a mezőt személyeknél, projekteknél, feladatoknál, időbejegyzéseknél vagy hiányzásoknál, ahol csak szükség van rá.
+- **Kevesebb zsúfoltság** — rejtse el a mezőket ott, ahol nem relevánsak.
+- **Pontos szabályozás** — korlátozza a mezőt adott projektkategóriákra, tervezésekre vagy távollét-típusokra.
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá az **Egyéni mezők, egyéni szerepkörök és haladó konfiguráció** kiegészítőt az **Essential** csomaghoz.

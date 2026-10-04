@@ -1,4 +1,4 @@
-Met de instellingen voor e-mail en rol beheert u de aanmeldgegevens, het e-mailadres en de toegewezen rol van deze persoon. Vanaf hier kunt u de persoon uitnodigen om lid te worden van het platform of controleren of hij of zij zich al heeft aangemeld. De toegewezen rol bepaalt welke machtigingen deze persoon in de hele applicatie heeft.
+Dit gedeelte bevat het e-mailadres waarmee deze persoon zich aanmeldt en de rol die aan hem of haar is toegewezen. De rol bepaalt wat deze persoon in de hele applicatie kan zien en doen. Zolang de persoon nog niet is toegetreden, verschijnt bovenaan het profiel de knop 'Uitnodigen via e-mail', met de status 'Uitnodiging in behandeling' zodra er een uitnodiging is verstuurd.
 ---
 
 [Lees meer in de documentatie →](https://beebole.com/help/documentation/people)

@@ -1,4 +1,4 @@
-Timesheet settings control how time entries are recorded and submitted. Options include the unit for time entry (hours, start/end times, or timer), the minimum time interval accepted, the timesheet frequency, and which day the week starts on. Settings are inherited from the organisation level and can be overridden per tag or person.
+Timesheet and Planning Settings control how time is recorded, submitted, and planned. The Period & submission tab sets the timesheet period, auto-submit, the lock date, and the restrictions you add with Add restriction. The other tabs choose the project categories and plannings that accept time, set the unit for time entry, the timer, and start and end times, and configure reminders and Auto Timesheet from Planning. Settings are inherited from the organisation level and can be overridden per tag or person.
 ---
 
 [Read more in the documentation →](https://beebole.com/help/documentation/timesheetSettings)

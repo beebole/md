@@ -10,4 +10,4 @@ Asocia tarifas de facturación a tus personas y proyectos para convertir el tiem
 
 ---
 
-Incluido en los planes **Esencial** y **Avanzado**.
+Incluido en los planes **Essential** y **Advanced**. En las etiquetas, el plan **Essential** también necesita el complemento **Campos personalizados, roles personalizados y configuración avanzada**.

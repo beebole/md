@@ -5,7 +5,7 @@ Set a time or cost budget on a project and watch progress against it as work hap
 **Why use it**
 
 - **Cap with confidence** — limit projects by hours, cost or billable amount.
-- **Early warnings** — get alerted before you overrun, not after.
+- **Early warnings** — spot projects heading for an overrun before it happens, not after.
 - **Sharper estimates** — compare planned vs. actual to quote better next time.
 
 ---

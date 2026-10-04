@@ -10,4 +10,4 @@ Definisci a quante assenze ha diritto ogni persona e tieni d'occhio quante ne re
 
 ---
 
-Incluso nei piani **Essential** e **Advanced**.
+Incluso nei piani **Essential** e **Advanced**. Sui tag, il piano **Essential** richiede anche il componente aggiuntivo **Campi personalizzati, ruoli personalizzati e configurazione avanzata**.

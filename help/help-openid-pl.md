@@ -1,4 +1,4 @@
-Logowanie jednokrotne pozwala Twojej organizacji logować się za pośrednictwem zewnętrznego dostawcy tożsamości zamiast odrębnych haseł. Możesz połączyć Google, Microsoft lub dowolnego niestandardowego dostawcę OpenID Connect — w przypadku dostawcy niestandardowego wprowadź adres URL wystawcy, identyfikator klienta i klucz tajny klienta. Możesz również automatycznie tworzyć użytkowników przy pierwszym logowaniu i ograniczyć dostęp wyłącznie do logowania jednokrotnego.
+Logowanie jednokrotne pozwala Twojemu zespołowi logować się za pośrednictwem dostawcy tożsamości Twojej organizacji. Możesz połączyć Google, Microsoft lub dowolnego niestandardowego dostawcę OpenID Connect, np. Okta — w przypadku dostawcy niestandardowego wprowadź adres URL wystawcy, identyfikator klienta i klucz tajny klienta, a następnie skopiuj wyświetlony URI wywołania zwrotnego do ustawień swojego dostawcy. W przypadku Google możesz powiązać swoje domeny i automatycznie tworzyć użytkowników przy ich pierwszym logowaniu, a każdego dostawcę można ustawić jako jedyny sposób logowania.
 ---
 
 [Dowiedz się więcej w dokumentacji →](https://beebole.com/help/documentation/authentication)

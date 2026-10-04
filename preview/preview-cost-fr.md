@@ -10,4 +10,4 @@ Enregistrez ce que votre équipe coûte réellement par heure pour révéler la 
 
 ---
 
-Disponible avec l'abonnement **Avancé** — ou ajoutez le module complémentaire **Coûts, dépenses et budgets** à l'abonnement **Essentiel**.
+Disponible avec l'abonnement **Advanced** — ou ajoutez le module complémentaire **Coûts, dépenses et budgets** à l'abonnement **Essential**. Sur les tags, l'abonnement **Essential** nécessite aussi le module complémentaire **Champs personnalisés, rôles personnalisés et configuration avancée**.

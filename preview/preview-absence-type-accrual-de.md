@@ -1,12 +1,12 @@
 **Was es macht**
 
-Bauen Sie bezahlten Urlaub automatisch auf, während Ihr Team arbeitet, anstatt ihn auf einmal zu gewähren.
+Legen Sie fest, wie viel bezahlten Urlaub Ihr Team pro Periode erwirbt, anstatt ihn auf einmal zu gewähren.
 
 **Warum Sie es nutzen sollten**
 
-- **Einrichten und vergessen** — Ansprüche monatlich, pro Periode oder nach geleisteten Stunden ansammeln.
-- **Von Grund auf konform** — bilden Sie lokale Arbeitsregeln und Verträge ab, ganz ohne manuelle Nachverfolgung.
-- **Immer korrekt** — geben Sie Mitarbeitenden jederzeit einen verlässlichen Saldo.
+- **Flexible Regeln** — bestimmen Sie, wie oft Ansprüche angesammelt werden, wie viel erworben wird und wann es gewährt wird.
+- **Von Grund auf konform** — bilden Sie lokale Arbeitsregeln und Verträge ab.
+- **Klare Salden** — zeigen Sie neben dem Anspruch, was jede Person angesammelt hat.
 
 ---
 

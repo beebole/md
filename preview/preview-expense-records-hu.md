@@ -10,4 +10,4 @@ Rögzítse a csapata által egy projekten felmerült saját zsebes kiadásokat, 
 
 ---
 
-Elérhető a **Haladó** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Alapvető** csomaghoz.
+Elérhető az **Advanced** csomagban — vagy adja hozzá a **Költségek, kiadások és költségvetések** kiegészítőt az **Essential** csomaghoz.
