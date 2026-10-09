@@ -1,6 +1,6 @@
 **Co to umí**
 
-Nechte odeslané pracovní výkazy projít jednou nebo více fázemi schvalování, než budou schváleny. Díky **Pokročilým štítkům** můžete stejný víceúrovňový schvalovací postup uplatnit na všechny se společným štítkem jediným krokem.
+Umožněte lidem odesílat pracovní výkazy ke kontrole a nechte je projít jednou nebo více fázemi schvalování, než budou schváleny. Díky **Pokročilým štítkům** můžete stejný víceúrovňový schvalovací postup uplatnit na všechny se společným štítkem jediným krokem.
 
 **Proč to používat**
 

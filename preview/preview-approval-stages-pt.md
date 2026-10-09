@@ -1,6 +1,6 @@
 **O que faz**
 
-Faça passar os mapas de horas submetidos por uma ou mais etapas de aprovação antes de serem aprovados. Com as **Etiquetas avançadas**, pode aplicar o mesmo fluxo de aprovação em vários níveis a todos os que partilham uma etiqueta, num só passo.
+Permita que as pessoas submetam os seus mapas de horas para revisão e faça-os passar por uma ou mais etapas de aprovação antes de serem aprovados. Com as **Etiquetas avançadas**, pode aplicar o mesmo fluxo de aprovação em vários níveis a todos os que partilham uma etiqueta, num só passo.
 
 **Porquê usar**
 

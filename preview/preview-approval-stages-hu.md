@@ -1,6 +1,6 @@
 **Mire való**
 
-Vezesse végig a beküldött munkaidő-nyilvántartásokat egy vagy több jóváhagyási szakaszon, mielőtt jóváhagyásra kerülnek. A **Haladó címkék** segítségével ugyanazt a többlépcsős jóváhagyási folyamatot egyetlen lépésben alkalmazhatja mindenkire, aki ugyanazt a címkét viseli.
+Tegye lehetővé, hogy a munkatársak ellenőrzésre beküldjék munkaidő-nyilvántartásaikat, és vezesse végig őket egy vagy több jóváhagyási szakaszon, mielőtt jóváhagyásra kerülnek. A **Haladó címkék** segítségével ugyanazt a többlépcsős jóváhagyási folyamatot egyetlen lépésben alkalmazhatja mindenkire, aki ugyanazt a címkét viseli.
 
 **Miért érdemes használni**
 

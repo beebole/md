@@ -1,6 +1,6 @@
 **Was es macht**
 
-Leiten Sie eingereichte Stundenzettel vor der Genehmigung durch eine oder mehrere Genehmigungsstufen. Mit **Erweiterten Tags** wenden Sie denselben mehrstufigen Genehmigungsablauf in einem Schritt auf alle an, die einen Tag teilen.
+Lassen Sie Personen ihre Stundenzettel zur Prüfung einreichen und leiten Sie sie vor der Genehmigung durch eine oder mehrere Genehmigungsstufen. Mit **Erweiterten Tags** wenden Sie denselben mehrstufigen Genehmigungsablauf in einem Schritt auf alle an, die einen Tag teilen.
 
 **Warum Sie es nutzen sollten**
 

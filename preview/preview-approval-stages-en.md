@@ -1,6 +1,6 @@
 **What it does**
 
-Route submitted timesheets through one or more approval stages before they're approved. With **Advanced Tags**, you can apply the same multi-step approval flow to everyone sharing a tag, in one step.
+Let people submit their timesheets for review and route them through one or more approval stages before they're approved. With **Advanced Tags**, you can apply the same multi-step approval flow to everyone sharing a tag, in one step.
 
 **Why use it**
 

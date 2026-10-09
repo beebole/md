@@ -1,6 +1,6 @@
 **Do czego służy**
 
-Przeprowadzaj przesłane grafiki przez jeden lub kilka etapów zatwierdzania, zanim zostaną zatwierdzone. Dzięki funkcji **Tagi zaawansowane** zastosujesz ten sam wieloetapowy przepływ zatwierdzania do wszystkich osób z danym tagiem — w jednym kroku.
+Pozwól osobom przesyłać grafiki do przeglądu i przeprowadzaj je przez jeden lub kilka etapów zatwierdzania, zanim zostaną zatwierdzone. Dzięki funkcji **Tagi zaawansowane** zastosujesz ten sam wieloetapowy przepływ zatwierdzania do wszystkich osób z danym tagiem — w jednym kroku.
 
 **Dlaczego warto**
 

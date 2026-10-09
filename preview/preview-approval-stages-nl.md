@@ -1,6 +1,6 @@
 **Wat het doet**
 
-Laat ingediende timesheets één of meer goedkeuringsfasen doorlopen voordat ze worden goedgekeurd. Met **Geavanceerde tags** pas je dezelfde meerstaps-goedkeuringsflow in één keer toe op iedereen die een tag deelt.
+Laat mensen hun timesheets ter beoordeling indienen en laat ze één of meer goedkeuringsfasen doorlopen voordat ze worden goedgekeurd. Met **Geavanceerde tags** pas je dezelfde meerstaps-goedkeuringsflow in één keer toe op iedereen die een tag deelt.
 
 **Waarom gebruiken**
 

@@ -1,6 +1,6 @@
 **Cosa fa**
 
-Fai passare i timesheet inviati attraverso una o più fasi di approvazione prima che vengano approvati. Con i **Tag Avanzati** puoi applicare lo stesso processo di approvazione a più livelli a tutti coloro che condividono un tag, in un solo passaggio.
+Permetti alle persone di inviare i propri timesheet per la revisione e falli passare attraverso una o più fasi di approvazione prima che vengano approvati. Con i **Tag Avanzati** puoi applicare lo stesso processo di approvazione a più livelli a tutti coloro che condividono un tag, in un solo passaggio.
 
 **Perché usarlo**
 

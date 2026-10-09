@@ -1,6 +1,6 @@
 **Ce que ça fait**
 
-Faites passer les feuilles d'activités soumises par une ou plusieurs étapes d'approbation avant leur validation. Avec les **Tags avancés**, vous appliquez le même circuit d'approbation en plusieurs étapes à tous ceux qui partagent un tag, en une seule fois.
+Permettez à chacun d'envoyer ses feuilles d'activités pour examen et faites-les passer par une ou plusieurs étapes d'approbation avant leur validation. Avec les **Tags avancés**, vous appliquez le même circuit d'approbation en plusieurs étapes à tous ceux qui partagent un tag, en une seule fois.
 
 **Pourquoi l'utiliser**
 

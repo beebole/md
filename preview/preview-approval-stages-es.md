@@ -1,6 +1,6 @@
 **Qué hace**
 
-Haz pasar las hojas de tiempo enviadas por una o varias etapas de aprobación antes de aprobarlas. Con las **Etiquetas avanzadas**, puedes aplicar el mismo flujo de aprobación de varios niveles a todos los que comparten una etiqueta, en un solo paso.
+Permite que las personas envíen sus hojas de tiempo para revisión y hazlas pasar por una o varias etapas de aprobación antes de aprobarlas. Con las **Etiquetas avanzadas**, puedes aplicar el mismo flujo de aprobación de varios niveles a todos los que comparten una etiqueta, en un solo paso.
 
 **Por qué usarlo**
 
