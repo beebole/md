@@ -1,4 +1,4 @@
 Ez a szakasz azt mutatja, mely személyek vannak ehhez a feladathoz rendelve. A hozzárendelt személyek időt rögzíthetnek a feladatra, és értesítéseket kapnak a kapcsolódó eseményekről. Hozzáadhat vagy eltávolíthat személyeket annak szabályozására, kitől várható el, hogy ezen a feladaton dolgozzon.
 ---
 
-[Tudjon meg többet a dokumentációban →](https://beebole.com/help/documentation/assignments)
+[Tudjon meg többet a dokumentációban →](https://beebole.com/help/documentation/assignments?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

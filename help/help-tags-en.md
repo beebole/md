@@ -2,4 +2,4 @@ The tags section shows which tags this entity belongs to. Tagging groups entitie
 
 ---
 
-[Read more in the documentation →](https://beebole.com/help/documentation/tags)
+[Read more in the documentation →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

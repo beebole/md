@@ -1,4 +1,4 @@
 Os Orçamentos permitem definir metas financeiras ou de tempo para este projeto, contadas a partir de uma data escolhida ou desde o início do projeto. Pode acompanhar horas, faturação ou custo em relação ao orçamento e dividir as alocações por pessoa ou por projeto. O progresso do orçamento é calculado automaticamente a partir dos registos de tempo e das despesas lançados.
 ---
 
-[Saiba mais na documentação →](https://beebole.com/help/documentation/budgets)
+[Saiba mais na documentação →](https://beebole.com/help/documentation/budgets?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

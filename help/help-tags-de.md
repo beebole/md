@@ -2,4 +2,4 @@ Der Bereich Tags zeigt, zu welchen Tags diese Entität gehört. Durch das Taggen
 
 ---
 
-[Mehr in der Dokumentation →](https://beebole.com/help/documentation/tags)
+[Mehr in der Dokumentation →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

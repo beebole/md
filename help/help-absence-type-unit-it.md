@@ -1,4 +1,4 @@
 L'impostazione dell'unità determina se questo tipo di assenza viene conteggiato in giorni o in ore. Puoi anche specificare se il tempo di questo tipo è retribuito e quindi incluso nei costi del personale. Questo influisce sul modo in cui vengono calcolati quote, maturazioni e report per questo tipo di assenza.
 ---
 
-[Maggiori informazioni nella documentazione →](https://beebole.com/help/documentation/timeoff)
+[Maggiori informazioni nella documentazione →](https://beebole.com/help/documentation/timeoff?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

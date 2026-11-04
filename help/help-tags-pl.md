@@ -2,4 +2,4 @@ Sekcja tagów pokazuje, do których tagów należy ta jednostka. Tagowanie grupu
 
 ---
 
-[Dowiedz się więcej w dokumentacji →](https://beebole.com/help/documentation/tags)
+[Dowiedz się więcej w dokumentacji →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

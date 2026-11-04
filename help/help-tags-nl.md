@@ -2,4 +2,4 @@ Het gedeelte Tags toont tot welke tags deze entiteit behoort. Door te taggen gro
 
 ---
 
-[Lees meer in de documentatie →](https://beebole.com/help/documentation/tags)
+[Lees meer in de documentatie →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

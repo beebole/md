@@ -1,4 +1,4 @@
 Cette section liste les membres de l'équipe, projets, tâches et tags dont cette personne est responsable et, sous Géré par, qui est responsable d'elle. Choisir une catégorie entière, comme une catégorie de projets, une planification ou une catégorie de tags, rend la personne responsable de tout ce qu'elle contient, y compris les éléments ajoutés plus tard ; être responsable d'un projet couvre aussi ses sous-projets, et être responsable d'un tag couvre les personnes et projets qui le portent. Les responsables peuvent être notifiés lorsqu'un élément dont ils sont responsables est mentionné, et ils approuvent les feuilles d'activités lorsque le circuit d'approbation comprend une étape Chefs d'équipe, Chefs de projet ou Responsables des tâches.
 ---
 
-[En savoir plus dans la documentation →](https://beebole.com/help/documentation/assignments)
+[En savoir plus dans la documentation →](https://beebole.com/help/documentation/assignments?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

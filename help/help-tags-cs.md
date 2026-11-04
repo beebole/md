@@ -2,4 +2,4 @@ Sekce Štítky zobrazuje, do kterých štítků tato entita patří. Označován
 
 ---
 
-[Více informací v dokumentaci →](https://beebole.com/help/documentation/tags)
+[Více informací v dokumentaci →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

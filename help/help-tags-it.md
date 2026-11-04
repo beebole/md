@@ -2,4 +2,4 @@ La sezione Tag mostra a quali tag appartiene questo elemento. Taggare raggruppa 
 
 ---
 
-[Maggiori informazioni nella documentazione →](https://beebole.com/help/documentation/tags)
+[Maggiori informazioni nella documentazione →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

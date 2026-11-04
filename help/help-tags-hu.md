@@ -2,4 +2,4 @@ A címkék szakasz azt mutatja, mely címkékhez tartozik ez az entitás. A cím
 
 ---
 
-[Tudjon meg többet a dokumentációban →](https://beebole.com/help/documentation/tags)
+[Tudjon meg többet a dokumentációban →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

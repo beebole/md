@@ -1,4 +1,4 @@
 Limity nepřítomnosti určují, kolik volna je k dispozici pro každý typ nepřítomnosti za dané období. Můžete nastavit počáteční a koncové datum, počet dostupných dní nebo hodin, limity převodu, korekce naběhlých nároků a to, zda smí zůstatek klesnout do záporných hodnot. Limity se dědí z úrovně organizace a lze je přizpůsobit podle štítku nebo osoby.
 ---
 
-[Více informací v dokumentaci →](https://beebole.com/help/documentation/timeoff)
+[Více informací v dokumentaci →](https://beebole.com/help/documentation/timeoff?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)

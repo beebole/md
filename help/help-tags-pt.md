@@ -2,4 +2,4 @@ A secção Etiquetas mostra a que etiquetas este elemento pertence. Etiquetar ag
 
 ---
 
-[Saiba mais na documentação →](https://beebole.com/help/documentation/tags)
+[Saiba mais na documentação →](https://beebole.com/help/documentation/tags?utm_source=app.beebole.com&utm_medium=referral&utm_content=tooltip)
